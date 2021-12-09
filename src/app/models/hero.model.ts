@@ -1,10 +1,12 @@
 export class HeroModel {
     id?: string;
-    name?: string;
-    power?: string;
+    name: string;
+    power: string;
     alive: boolean;
 
     constructor() {
         this.alive = true;
+        this.name = '';
+        this.power = '';
     }
 }
