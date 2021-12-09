@@ -1,6 +1,22 @@
-# FirebaseCrud
+<!-- PROJECT LOGO -->
+<br/>
+<div align="center">
+<!--
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+-->
+<h3 align="center">FirebaseCrud</h3>
 
-Little project to test CRUD operations using Firebase as a RESTful API.
+  <p align="center">
+    Little project to test CRUD operations using Firebase as a RESTful API.
+    <br />
+    <br />
+    <a href="https://hero-crud-6baf5.firebaseapp.com/heroes">View Demo</a>
+  </p>
+</div>
+
+## About the project
 
 - Doesn't have form validations.
 - It isn't responsive... yet.
