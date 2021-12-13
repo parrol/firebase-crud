@@ -18,10 +18,6 @@
 
 ## About the project
 
-- Doesn't have form validations.
-- It isn't responsive... yet.
-  <br>
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ### Built With
@@ -31,10 +27,26 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - [Bootstrap](https://getbootstrap.com/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 
-## Install dependecies
+<div id="roadmap"></div>
 
-Run `npm install` to install necessary dependencies.
+<!-- ROADMAP -->
+## Roadmap
 
-## Development server
+- [x] Add POST and PUT notice.
+- [x] Add GET and DELETE.
+- [x] Add Firebase hosting.
+- [ ] Add original styles.
+- [ ] Add form validations.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+<!-- CONTACT -->
+## Contact
+
+Carlos Parra - [@ParraCodes](https://twitter.com/ParraCodes) - carlos.parra97@gmail.com
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/carlosp1308/
